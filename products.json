@@ -1,0 +1,51 @@
+[
+    {
+        "name":"iphone",
+        "price":200,
+        "featured":false,
+        "company":"apple"
+
+    },
+    {
+        "name":"laptop",
+        "price":1000,
+        "featured":false,
+        "company":"dell"
+
+    },
+    {
+        "name":"iphone11",
+        "price":800,
+        "featured":false,
+        "company":"apple"
+
+    },
+    {
+        "name":"watch",
+        "price":200,
+        "featured":true,
+        "company":"apple"
+
+    },
+    {
+        "name":"watch",
+        "price":400,
+        "featured":false,
+        "company":"mi"
+
+    },
+    {
+        "name":"phone",
+        "price":600,
+        "featured":false,
+        "company":"samsung"
+
+    },
+    {
+        "name":"watch",
+        "price":700,
+        "featured":true,
+        "company":"mi"
+
+    }
+]
