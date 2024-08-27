@@ -40,7 +40,7 @@ const getAllProducts = async (req, res) => {
         
 
         let selectFixing =  select.split(",").join(" ");
-        apiData = apiData.sort(selectFixing);
+        apiData = apiData.select(selectFixing);
     }
 
     // Pagination functionality..........
