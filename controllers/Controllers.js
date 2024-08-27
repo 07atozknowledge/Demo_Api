@@ -36,10 +36,10 @@ const getAllProducts = async (req, res) => {
 
     // Select functionality..........
 
-    if(select){
+    if( select ){
         
 
-        let selectFixing =  sort.split(",").join(" ");
+        let selectFixing =  select.split(",").join(" ");
         apiData = apiData.sort(selectFixing);
     }
 
